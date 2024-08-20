@@ -1,0 +1,101 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Its Your Book",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723960591~exp=1723964191~hmac=ce13ccebf865ebb0489d309adc8a5a392ce74b5786994397b3d04f900e0e8018&w=740"
+
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Its Your Book",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723960591~exp=1723964191~hmac=ce13ccebf865ebb0489d309adc8a5a392ce74b5786994397b3d04f900e0e8018&w=740"
+
+    },
+    {
+        "id":3,
+        "name":"Short Story Book",
+        "title":"Its Your Book",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723960591~exp=1723964191~hmac=ce13ccebf865ebb0489d309adc8a5a392ce74b5786994397b3d04f900e0e8018&w=740"
+
+    },
+    {
+        "id":4,
+        "name":"Science Fiction Book",
+        "title":"Its Your Book",
+        "price":119,
+        "category":"Fiction",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723960591~exp=1723964191~hmac=ce13ccebf865ebb0489d309adc8a5a392ce74b5786994397b3d04f900e0e8018&w=740"
+
+    },
+    {
+        "id":5,
+        "name":"Historical Fiction Book",
+        "title":"Its Your Book",
+        "price":99,
+        "category":"Fiction",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723960591~exp=1723964191~hmac=ce13ccebf865ebb0489d309adc8a5a392ce74b5786994397b3d04f900e0e8018&w=740"
+
+    },
+    {
+        "id":6,
+        "name":"Biography Book",
+        "title":"Its Your Book",
+        "price":79,
+        "category":"Biography",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723960591~exp=1723964191~hmac=ce13ccebf865ebb0489d309adc8a5a392ce74b5786994397b3d04f900e0e8018&w=740"
+
+    },
+    {
+        "id":7,
+        "name":"Romance Novel",
+        "title":"Its Your Book",
+        "price":139,
+        "category":"Novel",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723960591~exp=1723964191~hmac=ce13ccebf865ebb0489d309adc8a5a392ce74b5786994397b3d04f900e0e8018&w=740"
+
+    },
+    {
+        "id":8,
+        "name":"Adventure Fiction Book",
+        "title":"Its Your Book",
+        "price":119,
+        "category":"Fiction",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723960591~exp=1723964191~hmac=ce13ccebf865ebb0489d309adc8a5a392ce74b5786994397b3d04f900e0e8018&w=740"
+
+    },
+    {
+        "id":9,
+        "name":"Graphic Novel",
+        "title":"Its Your Book",
+        "price":99,
+        "category":"Novel",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723960591~exp=1723964191~hmac=ce13ccebf865ebb0489d309adc8a5a392ce74b5786994397b3d04f900e0e8018&w=740"
+
+    },
+    {
+        "id":10,
+        "name":"Reciepe Book",
+        "title":"Its Your Book",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723960591~exp=1723964191~hmac=ce13ccebf865ebb0489d309adc8a5a392ce74b5786994397b3d04f900e0e8018&w=740"
+
+    },
+    {
+        "id":11,
+        "name":"Horror Book",
+        "title":"Its Your Book",
+        "price":149,
+        "category":"Horror",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723960591~exp=1723964191~hmac=ce13ccebf865ebb0489d309adc8a5a392ce74b5786994397b3d04f900e0e8018&w=740"
+
+    }
+]
